@@ -8,18 +8,20 @@ namespace MazeLibrary.Rooms
 {
     public class EnchantedRoom : Room
     {
-        private Spell spell;
-        private int roomnumber;
+        private Spell _spell;
+        private int _roomNumber;
         private MapSite[] sides = new MapSite[4];
 
         public EnchantedRoom(int n) : base(n)
         {
-            this.spell = spell;
+            this._spell = _spell;
         }
+
         public void CastSpell()
         {
             Console.WriteLine("Вы активировали заклинание");
         }
+
         public virtual void Enter()
         {
             Console.WriteLine("Вы вошли в комнату");

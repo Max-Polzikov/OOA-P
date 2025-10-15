@@ -3,37 +3,39 @@ namespace MazeLibrary.Doors
 {
     public class Door : MapSite
     {
-        private Room Room1;
-        private Room Room2;
-        private bool IsOpen;
+        public Room _room1;
+        public Room _room2;
+        protected bool _isOpen {  get; set; }
 
-        public Door(Room r1, Room r2)
+        public Door(Room room1, Room room2)
         {
-            Room1 = r1;
-            Room2 = r2;
-            IsOpen = true;
+            _room1 = room1;
+            _room2 = room2;
+            _isOpen = true;
         }
-        public Room OtherSideFrom(Room room)
+
+        public Room OtherSideFrom(Room _room)
         {
-            if (room == Room1)
+            if (_room == _room1)
             {
-                return Room2;
+                return _room2;
             }
-            if (room == Room2)
+            if (_room == _room2)
             {
-                return Room1;
+                return _room1;
             }
             else
             {
                 throw new Exception("Данной комнаты не существует");
             }
-            return room;
+            return _room1;
         }
+
         public override void Enter()
         {
-            if (IsOpen)
+            if (_isOpen)
             {
-                Console.WriteLine("Вы прошли через дверь из {0} комнаты в {1}", Room1.Roomnumber, Room2.Roomnumber);
+                Console.WriteLine("Вы прошли через дверь из {0} комнаты в {1}", _room1.RoomNumber, _room2.RoomNumber);
             }
             else
             {

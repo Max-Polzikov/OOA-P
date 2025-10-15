@@ -9,9 +9,10 @@ namespace MazeLibrary
     public class Spell
     {
         public string Name { get; }
-        public Spell(string name)
+
+        public Spell(string _name)
         {
-            Name = name;
+            Name = _name;
         }
     }
 }

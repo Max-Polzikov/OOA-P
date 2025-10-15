@@ -2,27 +2,31 @@
 {
     public class Room : MapSite
     {
-        private int roomNumber;
         private MapSite[] sides = new MapSite[4];
         public Room(int n)
         {
-            roomNumber = n;
+            RoomNumber = n;
         }
+
         public MapSite GetSide(Direction direction)
         {
             return sides[(int)direction];
         }
+
         public void SetSide(Direction dir, MapSite mapsite)
         {
             sides[(int)dir] = mapsite;
         }
+
         public virtual void Enter()
         {
-            Console.WriteLine("Вы вошли в комнату под номеров {0}", roomNumber);
+            Console.WriteLine("Вы вошли в комнату под номеров {0}", RoomNumber);
         }
-        public int Roomnumber
+
+        public int RoomNumber
         {
-            get { return roomNumber; }
+            get;
+            private init;
         }
     }
 }

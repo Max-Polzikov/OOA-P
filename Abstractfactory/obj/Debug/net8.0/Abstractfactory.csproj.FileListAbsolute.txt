@@ -13,3 +13,4 @@ C:\Users\maksp\source\repos\MazeLibrary\Abstractfactory\obj\Debug\net8.0\Abstrac
 C:\Users\maksp\source\repos\MazeLibrary\Abstractfactory\obj\Debug\net8.0\refint\Abstractfactory.dll
 C:\Users\maksp\source\repos\MazeLibrary\Abstractfactory\obj\Debug\net8.0\Abstractfactory.pdb
 C:\Users\maksp\source\repos\MazeLibrary\Abstractfactory\obj\Debug\net8.0\ref\Abstractfactory.dll
+C:\Users\maksp\source\repos\MazeLibrary\Abstractfactory\obj\Debug\net8.0\Abstractfactory.sourcelink.json

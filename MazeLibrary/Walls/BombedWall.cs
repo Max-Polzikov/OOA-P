@@ -9,6 +9,7 @@ namespace MazeLibrary.Walls
     public class BombedWall : Wall
     {
         public BombedWall() { }
+
         public override void Enter()
         {
             Console.WriteLine("Вы уперлись в стену с бомбой");

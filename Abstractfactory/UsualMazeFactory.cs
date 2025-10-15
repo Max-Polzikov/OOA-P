@@ -36,9 +36,9 @@ namespace AbstractFactory
             }
         }
 
-        public Door MakeDoor(Room r1, Room r2)
+        public Door MakeDoor(Room _room1, Room _room2)
         {
-            return new Door(r1, r2);
+            return new Door(_room1, _room2);
         }
     }
 }

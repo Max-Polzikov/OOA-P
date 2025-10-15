@@ -9,3 +9,4 @@ C:\Users\maksp\source\repos\MazeLibrary\MazeLibrary\obj\Debug\net8.0\MazeLibrary
 C:\Users\maksp\source\repos\MazeLibrary\MazeLibrary\obj\Debug\net8.0\refint\MazeLibrary.dll
 C:\Users\maksp\source\repos\MazeLibrary\MazeLibrary\obj\Debug\net8.0\MazeLibrary.pdb
 C:\Users\maksp\source\repos\MazeLibrary\MazeLibrary\obj\Debug\net8.0\ref\MazeLibrary.dll
+C:\Users\maksp\source\repos\MazeLibrary\MazeLibrary\obj\Debug\net8.0\MazeLibrary.sourcelink.json

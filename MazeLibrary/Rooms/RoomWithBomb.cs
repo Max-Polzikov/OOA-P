@@ -8,6 +8,7 @@ namespace MazeLibrary.Rooms
     public class RoomWithBomb : Room
     {
         public RoomWithBomb(int n) : base(n) { }
+
         public override void Enter()
         {
             Console.WriteLine("Вы вошли в комнату с бомбой");

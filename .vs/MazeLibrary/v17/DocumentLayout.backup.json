@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A65DBFC-B31D-481E-8427-F6FC0718F6BD}|Program\\Program.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A65DBFC-B31D-481E-8427-F6FC0718F6BD}|Program\\Program.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\abstractfactory\\abstractfactory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|solutionrelative:abstractfactory\\abstractfactory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A65DBFC-B31D-481E-8427-F6FC0718F6BD}|Program\\Program.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\program\\program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6A65DBFC-B31D-481E-8427-F6FC0718F6BD}|Program\\Program.csproj|solutionrelative:program\\program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\mazegamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\mazegamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\rooms\\enchantedroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\rooms\\enchantedroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\rooms\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\rooms\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\rooms\\roomwithbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\rooms\\roomwithbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\abstractfactory\\bombedmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,48 +47,40 @@
       "RelativeMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|solutionrelative:abstractfactory\\usualmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\mazegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\mazegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\rooms\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\rooms\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\rooms\\enchantedroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\rooms\\enchantedroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\rooms\\roomwithbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\rooms\\roomwithbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A65DBFC-B31D-481E-8427-F6FC0718F6BD}|Program\\Program.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A65DBFC-B31D-481E-8427-F6FC0718F6BD}|Program\\Program.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\doors\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\doors\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\walls\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\walls\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\doors\\enchanteddoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\doors\\enchanteddoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\walls\\bombedwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\walls\\bombedwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\mapsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\mapsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\walls\\bombedwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\walls\\bombedwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\walls\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\walls\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\abstractfactory\\abstractfactory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|solutionrelative:abstractfactory\\abstractfactory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A65DBFC-B31D-481E-8427-F6FC0718F6BD}|Program\\Program.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\program\\program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A65DBFC-B31D-481E-8427-F6FC0718F6BD}|Program\\Program.csproj|solutionrelative:program\\program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\mazelibrary\\mazelibrary\\mazelibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -90,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -101,205 +105,216 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomWithBomb.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Rooms\\RoomWithBomb.cs",
+              "RelativeDocumentMoniker": "MazeLibrary\\Rooms\\RoomWithBomb.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Rooms\\RoomWithBomb.cs",
+              "RelativeToolTip": "MazeLibrary\\Rooms\\RoomWithBomb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:14:49.565Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EnchantedMazeFactory.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\EnchantedMazeFactory.cs",
-              "RelativeDocumentMoniker": "Abstractfactory\\EnchantedMazeFactory.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\EnchantedMazeFactory.cs",
-              "RelativeToolTip": "Abstractfactory\\EnchantedMazeFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Rooms\\Room.cs",
+              "RelativeDocumentMoniker": "MazeLibrary\\Rooms\\Room.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Rooms\\Room.cs",
+              "RelativeToolTip": "MazeLibrary\\Rooms\\Room.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:26:28.382Z",
+              "WhenOpened": "2025-10-09T12:14:12.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BombedMazeFactory.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\BombedMazeFactory.cs",
-              "RelativeDocumentMoniker": "Abstractfactory\\BombedMazeFactory.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\BombedMazeFactory.cs",
-              "RelativeToolTip": "Abstractfactory\\BombedMazeFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Title": "EnchantedRoom.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Rooms\\EnchantedRoom.cs",
+              "RelativeDocumentMoniker": "MazeLibrary\\Rooms\\EnchantedRoom.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Rooms\\EnchantedRoom.cs",
+              "RelativeToolTip": "MazeLibrary\\Rooms\\EnchantedRoom.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:18:48.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Program\\Program.cs",
-              "RelativeDocumentMoniker": "Program\\Program.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Program\\Program.cs",
-              "RelativeToolTip": "Program\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:27:49.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Abstractfactory.csproj",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\Abstractfactory.csproj",
-              "RelativeDocumentMoniker": "Abstractfactory\\Abstractfactory.csproj",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\Abstractfactory.csproj",
-              "RelativeToolTip": "Abstractfactory\\Abstractfactory.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-09T12:18:57.877Z",
+              "WhenOpened": "2025-10-09T12:15:38.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Program\\Program.csproj",
-              "RelativeDocumentMoniker": "Program\\Program.csproj",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Program\\Program.csproj",
-              "RelativeToolTip": "Program\\Program.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-09T13:34:28.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MazeFactory.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\MazeFactory.cs",
-              "RelativeDocumentMoniker": "Abstractfactory\\MazeFactory.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\MazeFactory.cs",
-              "RelativeToolTip": "Abstractfactory\\MazeFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:21:37.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "MazeGameFactory.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\MazeGameFactory.cs",
-              "RelativeDocumentMoniker": "Abstractfactory\\MazeGameFactory.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\MazeGameFactory.cs",
-              "RelativeToolTip": "Abstractfactory\\MazeGameFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeGameFactory.cs",
+              "RelativeDocumentMoniker": "MazeLibrary\\MazeGameFactory.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeGameFactory.cs",
+              "RelativeToolTip": "MazeLibrary\\MazeGameFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:27:03.928Z",
+              "WhenOpened": "2025-10-09T12:10:14.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsualMazeFactory.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\UsualMazeFactory.cs",
-              "RelativeDocumentMoniker": "Abstractfactory\\UsualMazeFactory.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\UsualMazeFactory.cs",
-              "RelativeToolTip": "Abstractfactory\\UsualMazeFactory.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T13:30:07.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Spell.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Spell.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\Spell.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Spell.cs",
               "RelativeToolTip": "MazeLibrary\\Spell.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T12:10:54.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Maze.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Maze.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\Maze.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Maze.cs",
               "RelativeToolTip": "MazeLibrary\\Maze.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:08:41.18Z"
+              "WhenOpened": "2025-10-09T12:08:41.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BombedMazeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\BombedMazeFactory.cs",
+              "RelativeDocumentMoniker": "Abstractfactory\\BombedMazeFactory.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\BombedMazeFactory.cs",
+              "RelativeToolTip": "Abstractfactory\\BombedMazeFactory.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:18:48.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnchantedMazeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\EnchantedMazeFactory.cs",
+              "RelativeDocumentMoniker": "Abstractfactory\\EnchantedMazeFactory.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\EnchantedMazeFactory.cs",
+              "RelativeToolTip": "Abstractfactory\\EnchantedMazeFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:26:28.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MazeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\MazeFactory.cs",
+              "RelativeDocumentMoniker": "Abstractfactory\\MazeFactory.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\MazeFactory.cs",
+              "RelativeToolTip": "Abstractfactory\\MazeFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:21:37.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MazeGameFactory.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\MazeGameFactory.cs",
+              "RelativeDocumentMoniker": "Abstractfactory\\MazeGameFactory.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\MazeGameFactory.cs",
+              "RelativeToolTip": "Abstractfactory\\MazeGameFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:45:57.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MazeGame.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeGame.cs",
-              "RelativeDocumentMoniker": "MazeLibrary\\MazeGame.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeGame.cs",
-              "RelativeToolTip": "MazeLibrary\\MazeGame.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBYAAAASAAAAAAAAAA==",
+              "Title": "UsualMazeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\UsualMazeFactory.cs",
+              "RelativeDocumentMoniker": "Abstractfactory\\UsualMazeFactory.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\UsualMazeFactory.cs",
+              "RelativeToolTip": "Abstractfactory\\UsualMazeFactory.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:10:14.659Z"
+              "WhenOpened": "2025-10-09T13:30:07.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Rooms\\Room.cs",
-              "RelativeDocumentMoniker": "MazeLibrary\\Rooms\\Room.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Rooms\\Room.cs",
-              "RelativeToolTip": "MazeLibrary\\Rooms\\Room.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program\\Program.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Program\\Program.cs",
+              "RelativeToolTip": "Program\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:14:12.258Z"
+              "WhenOpened": "2025-10-09T12:27:49.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "EnchantedRoom.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Rooms\\EnchantedRoom.cs",
-              "RelativeDocumentMoniker": "MazeLibrary\\Rooms\\EnchantedRoom.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Rooms\\EnchantedRoom.cs",
-              "RelativeToolTip": "MazeLibrary\\Rooms\\EnchantedRoom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:15:38.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RoomWithBomb.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Rooms\\RoomWithBomb.cs",
-              "RelativeDocumentMoniker": "MazeLibrary\\Rooms\\RoomWithBomb.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Rooms\\RoomWithBomb.cs",
-              "RelativeToolTip": "MazeLibrary\\Rooms\\RoomWithBomb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:14:49.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "Door.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Doors\\Door.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\Doors\\Door.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Doors\\Door.cs",
               "RelativeToolTip": "MazeLibrary\\Doors\\Door.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvx4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:12:25.849Z"
+              "WhenOpened": "2025-10-09T12:12:25.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnchantedDoor.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Doors\\EnchantedDoor.cs",
+              "RelativeDocumentMoniker": "MazeLibrary\\Doors\\EnchantedDoor.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Doors\\EnchantedDoor.cs",
+              "RelativeToolTip": "MazeLibrary\\Doors\\EnchantedDoor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBcAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:46:23.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Direction.cs",
+              "RelativeDocumentMoniker": "MazeLibrary\\Direction.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Direction.cs",
+              "RelativeToolTip": "MazeLibrary\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:56:17.228Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Wall.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Walls\\Wall.cs",
-              "RelativeDocumentMoniker": "MazeLibrary\\Walls\\Wall.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Walls\\Wall.cs",
-              "RelativeToolTip": "MazeLibrary\\Walls\\Wall.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Title": "MapSite.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MapSite.cs",
+              "RelativeDocumentMoniker": "MazeLibrary\\MapSite.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MapSite.cs",
+              "RelativeToolTip": "MazeLibrary\\MapSite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:16:34.629Z"
+              "WhenOpened": "2025-10-09T12:09:27.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -309,37 +324,51 @@
               "RelativeDocumentMoniker": "MazeLibrary\\Walls\\BombedWall.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Walls\\BombedWall.cs",
               "RelativeToolTip": "MazeLibrary\\Walls\\BombedWall.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:17:15.879Z"
+              "WhenOpened": "2025-10-09T12:17:15.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "MapSite.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MapSite.cs",
-              "RelativeDocumentMoniker": "MazeLibrary\\MapSite.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MapSite.cs",
-              "RelativeToolTip": "MazeLibrary\\MapSite.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Walls\\Wall.cs",
+              "RelativeDocumentMoniker": "MazeLibrary\\Walls\\Wall.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Walls\\Wall.cs",
+              "RelativeToolTip": "MazeLibrary\\Walls\\Wall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T12:09:27.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Direction.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Direction.cs",
-              "RelativeDocumentMoniker": "MazeLibrary\\Direction.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\Direction.cs",
-              "RelativeToolTip": "MazeLibrary\\Direction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T11:56:17.228Z"
+              "WhenOpened": "2025-10-09T12:16:34.629Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "Program.csproj",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Program\\Program.csproj",
+              "RelativeDocumentMoniker": "Program\\Program.csproj",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Program\\Program.csproj",
+              "RelativeToolTip": "Program\\Program.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T13:34:28.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Abstractfactory.csproj",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\Abstractfactory.csproj",
+              "RelativeDocumentMoniker": "Abstractfactory\\Abstractfactory.csproj",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\Abstractfactory.csproj",
+              "RelativeToolTip": "Abstractfactory\\Abstractfactory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T12:18:57.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "MazeLibrary.csproj",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeLibrary.csproj",
               "RelativeDocumentMoniker": "MazeLibrary\\MazeLibrary.csproj",
@@ -347,8 +376,7 @@
               "RelativeToolTip": "MazeLibrary\\MazeLibrary.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-09T11:57:13.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T11:57:13.693Z"
             }
           ]
         }

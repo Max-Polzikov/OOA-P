@@ -12,6 +12,7 @@ namespace AbstractFactory
     public class EnchantedMazeFactory : MazeFactory
     {
         public EnchantedMazeFactory() { }
+
         public Maze MakeMaze()
         {
             Console.WriteLine("\tВы создали магический лабиринт\t");
@@ -30,9 +31,9 @@ namespace AbstractFactory
             }
         }
 
-        public Door MakeDoor(Room r1, Room r2)
+        public Door MakeDoor(Room _room1, Room _room2)
         {
-            return new EnchantedDoor(r1, r2);
+            return new EnchantedDoor(_room1, _room2);
         }
 
         public Wall MakeWall()

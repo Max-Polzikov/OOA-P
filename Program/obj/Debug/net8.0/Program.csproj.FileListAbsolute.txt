@@ -18,3 +18,4 @@ C:\Users\maksp\source\repos\MazeLibrary\Program\obj\Debug\net8.0\refint\Program.
 C:\Users\maksp\source\repos\MazeLibrary\Program\obj\Debug\net8.0\Program.pdb
 C:\Users\maksp\source\repos\MazeLibrary\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
 C:\Users\maksp\source\repos\MazeLibrary\Program\obj\Debug\net8.0\ref\Program.dll
+C:\Users\maksp\source\repos\MazeLibrary\Program\obj\Debug\net8.0\Program.sourcelink.json
