@@ -14,32 +14,32 @@ namespace AbstractFactory
     {
         public BombedMazeFactory() { }
 
-        public Maze CreateCreate()
+        public override Maze CreateMaze()
         {
             Console.WriteLine("\tВы создали лабиринт с бомбой\t");
             return new Maze();
         }
 
-        public Wall CreateWall()
+        public override Wall CreateWall()
         {
             return new BombedWall();
         }
 
-        public Room CreateRoom(int n)
+        public override Room CreateRoom(int roomNumber)
         {
-            if (n <= 0)
+            if (roomNumber <= 0)
             {
                 throw new ArgumentException("Номер комнаты должен быть натуральным числом");
             }
             else
             {
-                return new RoomWithBomb(n);
+                return new RoomWithBomb(roomNumber);
             }
         }
 
-        public Door CreateDoor(Room _room1, Room _room2)
+        public override Door CreateDoor(Room room1, Room room2)
         {
-            return new Door(_room1, _room2);
+            return new Door(room1, room2);
         }
     }
 }

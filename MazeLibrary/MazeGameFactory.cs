@@ -14,26 +14,26 @@ namespace MazeLibrary
     {
         public Maze CreateMaze()
         {
-            Maze _aMaze = new Maze();
+            Maze aMaze = new Maze();
 
-            Room _room1 = new Room(1);
-            Room _room2 = new Room(2);
-            Door _door = new Door(_room1, _room2);
+            Room room1 = new Room(1);
+            Room room2 = new Room(2);
+            Door door = new Door(room1, room2);
 
-            _aMaze.AddRoom(_room1);
-            _aMaze.AddRoom(_room2);
+            aMaze.AddRoom(room1);
+            aMaze.AddRoom(room2);
 
-            _room1.SetSide(Direction.North, _door);
-            _room1.SetSide(Direction.South, new Wall());
-            _room1.SetSide(Direction.West, new Wall());
-            _room1.SetSide(Direction.East, new Wall());
+            room1.SetSide(Direction.North, door);
+            room1.SetSide(Direction.South, new Wall());
+            room1.SetSide(Direction.West, new Wall());
+            room1.SetSide(Direction.East, new Wall());
 
-            _room2.SetSide(Direction.South, _door);
-            _room2.SetSide(Direction.North, new Wall());
-            _room2.SetSide(Direction.West, new Wall());
-            _room2.SetSide(Direction.East, new Wall());
+            room2.SetSide(Direction.South, door);
+            room2.SetSide(Direction.North, new Wall());
+            room2.SetSide(Direction.West, new Wall());
+            room2.SetSide(Direction.East, new Wall());
 
-            return _aMaze;
+            return aMaze;
         }
     }
 }

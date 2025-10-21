@@ -14,32 +14,32 @@ namespace AbstractFactory
         public MazeGameFactory() { }
         public Maze CreateMaze(MazeFactory mazeFactory)
         {
-            Maze _aMaze = mazeFactory.CreateMaze();
+            Maze aMaze = mazeFactory.CreateMaze();
 
-            Room _room1 = mazeFactory.CreateRoom(1);
-            _room1.Enter();
-            Room _room2 = mazeFactory.CreateRoom(2);
-            _room2.Enter();
-            Door _door = mazeFactory.CreateDoor(_room1, _room2);
-            _door.Enter();
+            Room room1 = mazeFactory.CreateRoom(1);
+            room1.Enter();
+            Room room2 = mazeFactory.CreateRoom(2);
+            room2.Enter();
+            Door door = mazeFactory.CreateDoor(room1, room2);
+            door.Enter();
 
-            _aMaze.AddRoom(_room1);
-            _aMaze.AddRoom(_room2);
+            aMaze.AddRoom(room1);
+            aMaze.AddRoom(room2);
 
-            Wall _wall = mazeFactory.CreateWall();
-            _wall.Enter();
+            Wall wall = mazeFactory.CreateWall();
+            wall.Enter();
 
-            _room1.SetSide(Direction.North, _door);
-            _room1.SetSide(Direction.South, mazeFactory.CreateWall());
-            _room1.SetSide(Direction.West, mazeFactory.CreateWall());
-            _room1.SetSide(Direction.East, mazeFactory.CreateWall());
+            room1.SetSide(Direction.North, door);
+            room1.SetSide(Direction.South, mazeFactory.CreateWall());
+            room1.SetSide(Direction.West, mazeFactory.CreateWall());
+            room1.SetSide(Direction.East, mazeFactory.CreateWall());
 
-            _room2.SetSide(Direction.South, _door);
-            _room2.SetSide(Direction.North, mazeFactory.CreateWall());
-            _room2.SetSide(Direction.West, mazeFactory.CreateWall());
-            _room2.SetSide(Direction.East, mazeFactory.CreateWall());
+            room2.SetSide(Direction.South, door);
+            room2.SetSide(Direction.North, mazeFactory.CreateWall());
+            room2.SetSide(Direction.West, mazeFactory.CreateWall());
+            room2.SetSide(Direction.East, mazeFactory.CreateWall());
 
-            return _aMaze;
+            return aMaze;
         }
     }
 }

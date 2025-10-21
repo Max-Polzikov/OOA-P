@@ -17,17 +17,17 @@ namespace Builder
 
         public virtual void BuildMaze() { }
 
-        public virtual void BuildRoom(int _roomNumber) 
+        public virtual void BuildRoom(int roomNumber) 
         {
-            if (_currentMaze.RoomNumber(_roomNumber)==null)
+            if (_currentMaze.RoomNumber(roomNumber)==null)
             {
-                Room _room = new Room(_roomNumber);
-                _currentMaze.AddRoom(_room);
+                Room room = new Room(roomNumber);
+                _currentMaze.AddRoom(room);
 
-                _room.SetSide(Direction.North, new Wall());
-                _room.SetSide(Direction.South, new Wall());
-                _room.SetSide(Direction.East, new Wall());
-                _room.SetSide(Direction.West, new Wall());
+                room.SetSide(Direction.North, new Wall());
+                room.SetSide(Direction.South, new Wall());
+                room.SetSide(Direction.East, new Wall());
+                room.SetSide(Direction.West, new Wall());
             }
         }
 

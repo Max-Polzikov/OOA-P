@@ -10,10 +10,10 @@ namespace MazeLibrary.Doors
 {
     public class EnchantedDoor : Door
     {
-        public EnchantedDoor(Room r1, Room r2) : base(r1, r2)
+        public EnchantedDoor(Room room1, Room room2) : base(room1, room2)
         {
-            _room1 = r1;
-            _room2 = r2;
+            _room1 = room1;
+            _room2 = room2;
             _isOpen = true;
         }
 

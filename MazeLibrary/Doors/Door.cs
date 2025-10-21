@@ -14,13 +14,13 @@ namespace MazeLibrary.Doors
             _isOpen = true;
         }
 
-        public Room OtherSideFrom(Room _room)
+        public Room OtherSideFrom(Room room)
         {
-            if (_room == _room1)
+            if (room == _room1)
             {
                 return _room2;
             }
-            if (_room == _room2)
+            if (room == _room2)
             {
                 return _room1;
             }
@@ -28,7 +28,6 @@ namespace MazeLibrary.Doors
             {
                 throw new Exception("Данной комнаты не существует");
             }
-            return _room1;
         }
 
         public override void Enter()

@@ -10,7 +10,7 @@ namespace MazeLibrary.Rooms
     {
         private Spell _spell;
         private int _roomNumber;
-        private MapSite[] sides = new MapSite[4];
+        private MapSite[] _sides = new MapSite[4];
 
         public EnchantedRoom(int n) : base(n)
         {
@@ -22,7 +22,7 @@ namespace MazeLibrary.Rooms
             Console.WriteLine("Вы активировали заклинание");
         }
 
-        public virtual void Enter()
+        public override void Enter()
         {
             Console.WriteLine("Вы вошли в комнату");
         }

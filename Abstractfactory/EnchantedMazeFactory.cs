@@ -13,13 +13,13 @@ namespace AbstractFactory
     {
         public EnchantedMazeFactory() { }
 
-        public Maze MakeMaze()
+        public override Maze CreateMaze()
         {
             Console.WriteLine("\tВы создали магический лабиринт\t");
             return new Maze();
         }
 
-        public Room MakeRoom(int n)
+        public override Room CreateRoom(int n)
         {
             if (n <= 0)
             {
@@ -31,12 +31,12 @@ namespace AbstractFactory
             }
         }
 
-        public Door MakeDoor(Room _room1, Room _room2)
+        public override Door CreateDoor(Room room1, Room room2)
         {
-            return new EnchantedDoor(_room1, _room2);
+            return new EnchantedDoor(room1, room2);
         }
 
-        public Wall MakeWall()
+        public override Wall CreateWall()
         {
             return new Wall();
         }

@@ -19,17 +19,17 @@ namespace Builder
 
         public virtual void BuildMaze() { }
 
-        public virtual void BuldRoom (int _rooNumber) 
+        public virtual void BuldRoom (int rooNumber) 
         {
             _rooms ++;
         }
 
-        public virtual void BuildDoor(int _roomFrom, int _roomTo) 
+        public virtual void BuildDoor(int roomFrom, int roomTo) 
         {
             _doors ++;
         }
 
-        public virtual void AddWall(int _roomNumber, Direction direction) { }
+        public virtual void AddWall(int roomNumber, Direction direction) { }
 
         public void GetCounts(out int rooms, out int doors)
         {
