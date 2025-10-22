@@ -3,9 +3,9 @@
     public class Room : MapSite
     {
         private MapSite[] _sides = new MapSite[4];
-        public Room(int n)
+        public Room(int number)
         {
-            RoomNumber = n;
+            Number = number;
         }
 
         public MapSite GetSide(Direction direction)
@@ -20,10 +20,10 @@
 
         public override void Enter()
         {
-            Console.WriteLine("Вы вошли в комнату под номеров {0}", RoomNumber);
+            Console.WriteLine("Вы вошли в комнату под номеров {0}", Number);
         }
 
-        public int RoomNumber
+        public int Number
         {
             get;
             private init;

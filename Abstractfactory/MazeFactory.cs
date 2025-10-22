@@ -18,9 +18,9 @@ namespace AbstractFactory
             return new Wall();
         }
 
-        public virtual Room CreateRoom(int n)
+        public virtual Room CreateRoom(int number)
         {
-            return new Room(n);
+            return new Room(number);
         }
 
         public virtual Door CreateDoor(Room room1, Room room2)

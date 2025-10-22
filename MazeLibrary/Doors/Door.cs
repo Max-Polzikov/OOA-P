@@ -3,26 +3,26 @@ namespace MazeLibrary.Doors
 {
     public class Door : MapSite
     {
-        public Room _room1;
-        public Room _room2;
-        protected bool _isOpen {  get; set; }
+        protected Room Room1 { get; set; }
+        protected Room Room2 { get; set; }
+        protected bool IsOpen {  get; set; }
 
         public Door(Room room1, Room room2)
         {
-            _room1 = room1;
-            _room2 = room2;
-            _isOpen = true;
+            Room1 = room1;
+            Room2 = room2;
+            IsOpen = true;
         }
 
         public Room OtherSideFrom(Room room)
         {
-            if (room == _room1)
+            if (room == Room1)
             {
-                return _room2;
+                return Room2;
             }
-            if (room == _room2)
+            if (room == Room2)
             {
-                return _room1;
+                return Room1;
             }
             else
             {
@@ -32,9 +32,9 @@ namespace MazeLibrary.Doors
 
         public override void Enter()
         {
-            if (_isOpen)
+            if (IsOpen)
             {
-                Console.WriteLine("Вы прошли через дверь из {0} комнаты в {1}", _room1.RoomNumber, _room2.RoomNumber);
+                Console.WriteLine("Вы прошли через дверь из {0} комнаты в {1}", Room1.Number, Room2.Number);
             }
             else
             {

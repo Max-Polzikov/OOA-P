@@ -27,7 +27,7 @@ namespace Builder
                 room.SetSide(Direction.North, new Wall());
                 room.SetSide(Direction.South, new Wall());
                 room.SetSide(Direction.East, new Wall());
-                room.SetSide(Direction.West, new Wall());
+                    room.SetSide(Direction.West, new Wall());
             }
         }
 

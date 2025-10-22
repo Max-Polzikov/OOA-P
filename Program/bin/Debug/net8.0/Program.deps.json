@@ -9,6 +9,7 @@
       "Program/1.0.0": {
         "dependencies": {
           "Abstractfactory": "1.0.0",
+          "Builder": "1.0.0",
           "MazeLibrary": "1.0.0"
         },
         "runtime": {
@@ -21,6 +22,17 @@
         },
         "runtime": {
           "Abstractfactory.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Builder/1.0.0": {
+        "dependencies": {
+          "MazeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Builder.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -43,6 +55,11 @@
       "sha512": ""
     },
     "Abstractfactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Builder/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

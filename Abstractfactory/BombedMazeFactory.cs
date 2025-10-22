@@ -25,16 +25,13 @@ namespace AbstractFactory
             return new BombedWall();
         }
 
-        public override Room CreateRoom(int roomNumber)
+        public override Room CreateRoom(int number)
         {
-            if (roomNumber <= 0)
+            if (number <= 0)
             {
                 throw new ArgumentException("Номер комнаты должен быть натуральным числом");
             }
-            else
-            {
-                return new RoomWithBomb(roomNumber);
-            }
+            return new RoomWithBomb(number);
         }
 
         public override Door CreateDoor(Room room1, Room room2)

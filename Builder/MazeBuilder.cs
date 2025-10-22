@@ -2,7 +2,7 @@
 
 namespace Builder
 {
-    public class MazeBuilder
+    public abstract class MazeBuilder
     {
         Maze _maze = new Maze();
         public virtual void BuildMaze() { }

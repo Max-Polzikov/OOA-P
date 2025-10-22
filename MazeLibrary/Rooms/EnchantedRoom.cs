@@ -9,12 +9,10 @@ namespace MazeLibrary.Rooms
     public class EnchantedRoom : Room
     {
         private Spell _spell;
-        private int _roomNumber;
-        private MapSite[] _sides = new MapSite[4];
 
-        public EnchantedRoom(int n) : base(n)
+        public EnchantedRoom(int number) : base(number)
         {
-            this._spell = _spell;
+            _spell = new Spell("Шары мары");
         }
 
         public void CastSpell()

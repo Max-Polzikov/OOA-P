@@ -13,18 +13,18 @@ namespace MazeLibrary
             _rooms.Add(room);
         }
 
-        public Room RoomNumber(int n)
+        public Room RoomNumber(int number)
         {
-            if (n <= 0)
+            if (number <= 0)
             {
                 throw new ArgumentException("Номер комнаты должен быть натуральным числом");
             }
-            var room = _rooms.FirstOrDefault(r => r.RoomNumber == n);
+            var room = _rooms.SingleOrDefault(r => r.Number == number);
             if (room == null)
             {
-                throw new ArgumentException($"Комната под номером {n} не найдена");
+                throw new ArgumentException($"Комната под номером {number} не найдена");
             }
-            Console.WriteLine($"Комната под номером {n} найдена");
+            Console.WriteLine($"Комната под номером {number} найдена");
             return room;
         }
     }

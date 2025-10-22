@@ -19,16 +19,13 @@ namespace AbstractFactory
             return new Maze();
         }
 
-        public override Room CreateRoom(int n)
+        public override Room CreateRoom(int number)
         {
-            if (n <= 0)
+            if (number <= 0)
             {
                 throw new ArgumentException("Номер комнаты должен быть натуральным числом");
             }
-            else
-            {
-                return new EnchantedRoom(n);
-            }
+            return new EnchantedRoom(number);
         }
 
         public override Door CreateDoor(Room room1, Room room2)

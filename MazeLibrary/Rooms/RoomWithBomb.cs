@@ -7,7 +7,7 @@ namespace MazeLibrary.Rooms
 {
     public class RoomWithBomb : Room
     {
-        public RoomWithBomb(int n) : base(n) { }
+        public RoomWithBomb(int number) : base(number) { }
 
         public override void Enter()
         {

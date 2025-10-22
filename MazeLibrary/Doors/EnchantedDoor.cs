@@ -10,18 +10,13 @@ namespace MazeLibrary.Doors
 {
     public class EnchantedDoor : Door
     {
-        public EnchantedDoor(Room room1, Room room2) : base(room1, room2)
-        {
-            _room1 = room1;
-            _room2 = room2;
-            _isOpen = true;
-        }
-
+        public EnchantedDoor(Room room1, Room room2) : base(room1, room2) { }
+        
         public override void Enter()
         {
-            if (_isOpen)
+            if (IsOpen)
             {
-                Console.WriteLine("Вы прошли через магическую дверь из {0} комнаты в {1} комнату", _room1.RoomNumber, _room2.RoomNumber);
+                Console.WriteLine("Вы прошли через магическую дверь из {0} комнаты в {1} комнату", Room1.Number, Room2.Number);
             }
             else
             {
