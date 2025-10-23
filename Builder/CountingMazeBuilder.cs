@@ -1,4 +1,5 @@
 ﻿using MazeLibrary;
+using MazeLibrary.Doors;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,34 +8,43 @@ using System.Threading.Tasks;
 
 namespace Builder
 {
-    public class CountingMazeBuilder : MazeBuilder
+    public class CountingMazeBuilder : IMazeBuilder
     {
         private int _rooms;
         private int _doors;
+        private Maze _currentMaze;
         public CountingMazeBuilder() 
         {
             _rooms = 0;
             _doors = 0;
         }
 
-        public virtual void BuildMaze() { }
+        public void BuildMaze() 
+        {
+            _currentMaze = new Maze();
+        }
 
-        public virtual void BuldRoom (int rooNumber) 
+        public Maze GetMaze()
+        {
+            return _currentMaze;
+        }
+
+        public void BuildRoom (int number) 
         {
             _rooms ++;
         }
 
-        public virtual void BuildDoor(int roomFrom, int roomTo) 
+        public void BuildDoor(int roomFrom, int roomTo) 
         {
             _doors ++;
         }
 
         public virtual void AddWall(int roomNumber, Direction direction) { }
 
-        public void GetCounts(out int rooms, out int doors)
+        public ( int rooms,  int doors) GetCounts()
         {
-            rooms = _rooms;
-            doors = _doors;
+            return (_rooms, _doors);
+            
         }
     }
 }

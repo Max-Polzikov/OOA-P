@@ -9,12 +9,12 @@ namespace Builder
 {
     public class MazeGame : Maze
     {
-        public Maze CreateMaze(MazeBuilder builder)
+        public void CreateMaze(IMazeBuilder builder)
         {
             builder.BuildRoom(1);
             builder.BuildRoom(2);
             builder.BuildDoor(1, 2);
-            return builder.GetMaze();
+            builder.BuildMaze();
         }
     }
 }
