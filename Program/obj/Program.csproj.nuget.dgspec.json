@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Program\\Program.csproj": {}
+    "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Program\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\Abstractfactory.csproj": {
+    "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Abstractfactory\\Abstractfactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\Abstractfactory.csproj",
+        "projectUniqueName": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Abstractfactory\\Abstractfactory.csproj",
         "projectName": "Abstractfactory",
-        "projectPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\Abstractfactory.csproj",
+        "projectPath": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Abstractfactory\\Abstractfactory.csproj",
         "packagesPath": "C:\\Users\\maksp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\obj\\",
+        "outputPath": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Abstractfactory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeLibrary.csproj": {
-                "projectPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeLibrary.csproj"
+              "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\MazeLibrary\\MazeLibrary.csproj": {
+                "projectPath": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\MazeLibrary\\MazeLibrary.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Builder\\Builder.csproj": {
+    "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Builder\\Builder.csproj",
+        "projectUniqueName": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Builder\\Builder.csproj",
         "projectName": "Builder",
-        "projectPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Builder\\Builder.csproj",
+        "projectPath": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Builder\\Builder.csproj",
         "packagesPath": "C:\\Users\\maksp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Builder\\obj\\",
+        "outputPath": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Builder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,8 +100,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeLibrary.csproj": {
-                "projectPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeLibrary.csproj"
+              "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\MazeLibrary\\MazeLibrary.csproj": {
+                "projectPath": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\MazeLibrary\\MazeLibrary.csproj"
               }
             }
           }
@@ -140,14 +140,14 @@
         }
       }
     },
-    "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeLibrary.csproj": {
+    "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\MazeLibrary\\MazeLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\MazeLibrary\\MazeLibrary.csproj",
         "projectName": "MazeLibrary",
-        "projectPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeLibrary.csproj",
+        "projectPath": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\MazeLibrary\\MazeLibrary.csproj",
         "packagesPath": "C:\\Users\\maksp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\obj\\",
+        "outputPath": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -204,14 +204,14 @@
         }
       }
     },
-    "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Program\\Program.csproj": {
+    "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Program\\Program.csproj",
+        "projectPath": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\maksp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Program\\obj\\",
+        "outputPath": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -232,14 +232,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\Abstractfactory.csproj": {
-                "projectPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Abstractfactory\\Abstractfactory.csproj"
+              "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Abstractfactory\\Abstractfactory.csproj": {
+                "projectPath": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Abstractfactory\\Abstractfactory.csproj"
               },
-              "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Builder\\Builder.csproj": {
-                "projectPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\Builder\\Builder.csproj"
+              "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Builder\\Builder.csproj": {
+                "projectPath": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Builder\\Builder.csproj"
               },
-              "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeLibrary.csproj": {
-                "projectPath": "C:\\Users\\maksp\\source\\repos\\MazeLibrary\\MazeLibrary\\MazeLibrary.csproj"
+              "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\MazeLibrary\\MazeLibrary.csproj": {
+                "projectPath": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\MazeLibrary\\MazeLibrary.csproj"
               }
             }
           }

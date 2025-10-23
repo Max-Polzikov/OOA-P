@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MazeLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+234d3673987cb4a7973b705546fd59aa067d6ff0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47b2a71e70fb0c9f921c3674a293aca2bdbd5e2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MazeLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MazeLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
