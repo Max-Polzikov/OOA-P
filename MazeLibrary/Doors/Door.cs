@@ -3,9 +3,9 @@ namespace MazeLibrary.Doors
 {
     public class Door : MapSite
     {
-        protected Room Room1 { get; set; }
-        protected Room Room2 { get; set; }
-        protected bool IsOpen {  get; set; }
+        protected Room Room1 { get; }
+        protected Room Room2 { get; }
+        protected bool IsOpen {  get; }
 
         public Door(Room room1, Room room2)
         {
@@ -24,10 +24,7 @@ namespace MazeLibrary.Doors
             {
                 return Room1;
             }
-            else
-            {
-                throw new Exception("Данной комнаты не существует");
-            }
+            throw new Exception("Данной комнаты не существует");
         }
 
         public override void Enter()

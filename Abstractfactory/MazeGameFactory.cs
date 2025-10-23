@@ -12,7 +12,7 @@ namespace AbstractFactory
     public class MazeGameFactory
     {
         public MazeGameFactory() { }
-        public Maze CreateMaze(MazeFactory mazeFactory)
+        public Maze CreateMaze(IMazeFactory mazeFactory)
         {
             Maze aMaze = mazeFactory.CreateMaze();
 

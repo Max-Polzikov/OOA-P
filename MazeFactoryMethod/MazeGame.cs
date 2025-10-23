@@ -11,7 +11,7 @@ namespace MazeFactoryMethod
 {
     public class MazeGame : Maze
     {
-        public Maze CreateMaze() { }
+        public Maze CreateMaze() { return new Maze(); }
 
         public virtual Maze MakeMaze()
         {

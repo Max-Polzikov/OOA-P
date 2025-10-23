@@ -10,22 +10,22 @@ using MazeLibrary.Walls;
 
 namespace AbstractFactory
 {
-    public class BombedMazeFactory : MazeFactory
+    public class BombedMazeFactory : IMazeFactory
     {
         public BombedMazeFactory() { }
 
-        public override Maze CreateMaze()
+        public Maze CreateMaze()
         {
             Console.WriteLine("\tВы создали лабиринт с бомбой\t");
             return new Maze();
         }
 
-        public override Wall CreateWall()
+        public Wall CreateWall()
         {
             return new BombedWall();
         }
 
-        public override Room CreateRoom(int number)
+        public Room CreateRoom(int number)
         {
             if (number <= 0)
             {
@@ -34,7 +34,7 @@ namespace AbstractFactory
             return new RoomWithBomb(number);
         }
 
-        public override Door CreateDoor(Room room1, Room room2)
+        public Door CreateDoor(Room room1, Room room2)
         {
             return new Door(room1, room2);
         }

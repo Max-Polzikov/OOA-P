@@ -9,17 +9,17 @@ using MazeLibrary.Rooms;
 using MazeLibrary.Walls;
 namespace AbstractFactory
 {
-    public class EnchantedMazeFactory : MazeFactory
+    public class EnchantedMazeFactory : IMazeFactory
     {
         public EnchantedMazeFactory() { }
 
-        public override Maze CreateMaze()
+        public Maze CreateMaze()
         {
             Console.WriteLine("\tВы создали магический лабиринт\t");
             return new Maze();
         }
 
-        public override Room CreateRoom(int number)
+        public Room CreateRoom(int number)
         {
             if (number <= 0)
             {
@@ -28,12 +28,12 @@ namespace AbstractFactory
             return new EnchantedRoom(number);
         }
 
-        public override Door CreateDoor(Room room1, Room room2)
+        public Door CreateDoor(Room room1, Room room2)
         {
             return new EnchantedDoor(room1, room2);
         }
 
-        public override Wall CreateWall()
+        public Wall CreateWall()
         {
             return new Wall();
         }

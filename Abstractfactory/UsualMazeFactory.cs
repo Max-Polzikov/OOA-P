@@ -11,20 +11,20 @@ using MazeLibrary.Walls;
 
 namespace AbstractFactory
 {
-    public class UsualMazeFactory : MazeFactory
+    public class UsualMazeFactory : IMazeFactory
     {
-        public override Maze CreateMaze()
+        public Maze CreateMaze()
         {
             Console.WriteLine("\tВы создали обычный лабиринт\t");
             return new Maze();
         }
 
-        public override Wall CreateWall()
+        public Wall CreateWall()
         {
             return new Wall();
         }
 
-        public override Room CreateRoom(int number)
+        public Room CreateRoom(int number)
         {
             if (number <= 0)
             {
@@ -33,7 +33,7 @@ namespace AbstractFactory
             return new Room(number);
         }
 
-        public override Door CreateDoor(Room room1, Room room2)
+        public Door CreateDoor(Room room1, Room room2)
         {
             return new Door(room1, room2);
         }

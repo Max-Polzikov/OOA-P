@@ -3,6 +3,8 @@
     public class Room : MapSite
     {
         private MapSite[] _sides = new MapSite[4];
+
+        public int Number { get; private init; }
         public Room(int number)
         {
             Number = number;
@@ -21,12 +23,6 @@
         public override void Enter()
         {
             Console.WriteLine("Вы вошли в комнату под номеров {0}", Number);
-        }
-
-        public int Number
-        {
-            get;
-            private init;
         }
     }
 }

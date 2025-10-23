@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\maksp\\source\\repos\\OOA-P\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\builder\\mazegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|solutionrelative:builder\\mazegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\builder\\standardmazebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|solutionrelative:builder\\standardmazebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\builder\\countingmazebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|solutionrelative:builder\\countingmazebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\builder\\imazebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|solutionrelative:builder\\imazebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\abstractfactory\\mazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|solutionrelative:abstractfactory\\mazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\abstractfactory\\enchantedmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|solutionrelative:abstractfactory\\enchantedmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\abstractfactory\\usualmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|solutionrelative:abstractfactory\\usualmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\abstractfactory\\mazegamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|solutionrelative:abstractfactory\\mazegamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\abstractfactory\\bombedmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|solutionrelative:abstractfactory\\bombedmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\doors\\enchanteddoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\doors\\enchanteddoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\doors\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\doors\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\rooms\\enchantedroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\rooms\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\walls\\bombedwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\walls\\bombedwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\rooms\\roomwithbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\rooms\\roomwithbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\walls\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\walls\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\doors\\enchanteddoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\doors\\enchanteddoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\mapsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\mazegamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\mazegamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,8 +43,60 @@
       "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\rooms\\roomwithbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\rooms\\roomwithbomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\abstractfactory\\mazegamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|solutionrelative:abstractfactory\\mazegamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\abstractfactory\\usualmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|solutionrelative:abstractfactory\\usualmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\abstractfactory\\imazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|solutionrelative:abstractfactory\\imazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\abstractfactory\\enchantedmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|solutionrelative:abstractfactory\\enchantedmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\abstractfactory\\bombedmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A0DF3-2C1C-44F9-8666-4C6EF74C57AE}|Abstractfactory\\Abstractfactory.csproj|solutionrelative:abstractfactory\\bombedmazefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163906EF-ADEE-463F-8A4A-F080C35EE780}|MazeFactoryMethod\\MazeFactoryMethod.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazefactorymethod\\mazegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163906EF-ADEE-463F-8A4A-F080C35EE780}|MazeFactoryMethod\\MazeFactoryMethod.csproj|solutionrelative:mazefactorymethod\\mazegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163906EF-ADEE-463F-8A4A-F080C35EE780}|MazeFactoryMethod\\MazeFactoryMethod.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazefactorymethod\\mazefactorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{163906EF-ADEE-463F-8A4A-F080C35EE780}|MazeFactoryMethod\\MazeFactoryMethod.csproj|solutionrelative:mazefactorymethod\\mazefactorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\builder\\standardmazebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|solutionrelative:builder\\standardmazebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\builder\\mazegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|solutionrelative:builder\\mazegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\builder\\imazebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|solutionrelative:builder\\imazebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\builder\\countingmazebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|solutionrelative:builder\\countingmazebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\walls\\bombedwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\walls\\bombedwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\mazelibrary\\walls\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}|MazeLibrary\\MazeLibrary.csproj|solutionrelative:mazelibrary\\walls\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\builder\\builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F421683B-E753-4E4F-8C49-60164ED146BE}|Builder\\Builder.csproj|solutionrelative:builder\\builder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A65DBFC-B31D-481E-8427-F6FC0718F6BD}|Program\\Program.csproj|c:\\users\\maksp\\source\\repos\\ooa-p\\program\\program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -98,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,7 +126,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
+              "Title": "MazeGame.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeFactoryMethod\\MazeGame.cs",
+              "RelativeDocumentMoniker": "MazeFactoryMethod\\MazeGame.cs",
+              "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeFactoryMethod\\MazeGame.cs",
+              "RelativeToolTip": "MazeFactoryMethod\\MazeGame.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T19:52:28.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MazeFactoryMethod",
+              "DocumentMoniker": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\MazeFactoryMethod\\MazeFactoryMethod.csproj",
+              "RelativeDocumentMoniker": "MazeFactoryMethod\\MazeFactoryMethod.csproj",
+              "ToolTip": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\MazeFactoryMethod\\MazeFactoryMethod.csproj",
+              "RelativeToolTip": "MazeFactoryMethod\\MazeFactoryMethod.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T19:52:24.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Builder.csproj",
+              "DocumentMoniker": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Builder\\Builder.csproj",
+              "RelativeDocumentMoniker": "Builder\\Builder.csproj",
+              "ToolTip": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Builder\\Builder.csproj",
+              "RelativeToolTip": "Builder\\Builder.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T14:16:50.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "MazeGame.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Builder\\MazeGame.cs",
               "RelativeDocumentMoniker": "Builder\\MazeGame.cs",
@@ -127,19 +178,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "StandardMazeBuilder.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Builder\\StandardMazeBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\StandardMazeBuilder.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Builder\\StandardMazeBuilder.cs",
               "RelativeToolTip": "Builder\\StandardMazeBuilder.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAowDkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T13:28:55.071Z"
+              "WhenOpened": "2025-10-23T13:28:55.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "IMazeBuilder.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Builder\\IMazeBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\IMazeBuilder.cs",
@@ -147,83 +199,90 @@
               "RelativeToolTip": "Builder\\IMazeBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:29:03.501Z"
+              "WhenOpened": "2025-10-22T06:29:03.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 20,
               "Title": "CountingMazeBuilder.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Builder\\CountingMazeBuilder.cs",
               "RelativeDocumentMoniker": "Builder\\CountingMazeBuilder.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Builder\\CountingMazeBuilder.cs",
               "RelativeToolTip": "Builder\\CountingMazeBuilder.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwCkAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowCkAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:27:32.701Z"
+              "WhenOpened": "2025-10-22T06:27:32.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "UsualMazeFactory.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Abstractfactory\\UsualMazeFactory.cs",
               "RelativeDocumentMoniker": "Abstractfactory\\UsualMazeFactory.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Abstractfactory\\UsualMazeFactory.cs",
               "RelativeToolTip": "Abstractfactory\\UsualMazeFactory.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:19:31.584Z"
+              "WhenOpened": "2025-10-22T05:19:31.584Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Program.csproj",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Program\\Program.csproj",
+              "DocumentMoniker": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Program\\Program.csproj",
               "RelativeDocumentMoniker": "Program\\Program.csproj",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Program\\Program.csproj",
+              "ToolTip": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Program\\Program.csproj",
               "RelativeToolTip": "Program\\Program.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-22T05:19:31.186Z"
+              "WhenOpened": "2025-10-22T05:19:31.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MazeFactory.cs",
-              "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Abstractfactory\\MazeFactory.cs",
-              "RelativeDocumentMoniker": "Abstractfactory\\MazeFactory.cs",
-              "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Abstractfactory\\MazeFactory.cs",
-              "RelativeToolTip": "Abstractfactory\\MazeFactory.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "IMazeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Abstractfactory\\IMazeFactory.cs",
+              "RelativeDocumentMoniker": "Abstractfactory\\IMazeFactory.cs",
+              "ToolTip": "C:\\Users\\maksp\\Source\\Repos\\OOA-P\\Abstractfactory\\IMazeFactory.cs",
+              "RelativeToolTip": "Abstractfactory\\IMazeFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:19:26.361Z"
+              "WhenOpened": "2025-10-22T05:19:26.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "EnchantedMazeFactory.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Abstractfactory\\EnchantedMazeFactory.cs",
               "RelativeDocumentMoniker": "Abstractfactory\\EnchantedMazeFactory.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Abstractfactory\\EnchantedMazeFactory.cs",
               "RelativeToolTip": "Abstractfactory\\EnchantedMazeFactory.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:19:16.189Z"
+              "WhenOpened": "2025-10-22T05:19:16.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "BombedMazeFactory.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Abstractfactory\\BombedMazeFactory.cs",
               "RelativeDocumentMoniker": "Abstractfactory\\BombedMazeFactory.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Abstractfactory\\BombedMazeFactory.cs",
               "RelativeToolTip": "Abstractfactory\\BombedMazeFactory.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:18:58.167Z"
+              "WhenOpened": "2025-10-22T05:18:58.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 4,
               "Title": "RoomWithBomb.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Rooms\\RoomWithBomb.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\Rooms\\RoomWithBomb.cs",
@@ -231,11 +290,12 @@
               "RelativeToolTip": "MazeLibrary\\Rooms\\RoomWithBomb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:17:22.652Z"
+              "WhenOpened": "2025-10-22T05:17:22.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "BombedWall.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Walls\\BombedWall.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\Walls\\BombedWall.cs",
@@ -243,11 +303,12 @@
               "RelativeToolTip": "MazeLibrary\\Walls\\BombedWall.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:17:19.685Z"
+              "WhenOpened": "2025-10-22T05:17:19.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "Wall.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Walls\\Wall.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\Walls\\Wall.cs",
@@ -255,11 +316,12 @@
               "RelativeToolTip": "MazeLibrary\\Walls\\Wall.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:17:18.932Z"
+              "WhenOpened": "2025-10-22T05:17:18.932Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "Direction.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Direction.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\Direction.cs",
@@ -267,35 +329,38 @@
               "RelativeToolTip": "MazeLibrary\\Direction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:17:16.726Z"
+              "WhenOpened": "2025-10-22T05:17:16.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "Maze.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Maze.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\Maze.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Maze.cs",
               "RelativeToolTip": "MazeLibrary\\Maze.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBoAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:16:48.672Z"
+              "WhenOpened": "2025-10-22T05:16:48.672Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 8,
               "Title": "MazeGameFactory.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\MazeGameFactory.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\MazeGameFactory.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\MazeGameFactory.cs",
               "RelativeToolTip": "MazeLibrary\\MazeGameFactory.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:16:46.513Z"
+              "WhenOpened": "2025-10-22T05:16:46.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 9,
               "Title": "Spell.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Spell.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\Spell.cs",
@@ -303,11 +368,12 @@
               "RelativeToolTip": "MazeLibrary\\Spell.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:16:45.505Z"
+              "WhenOpened": "2025-10-22T05:16:45.505Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
               "Title": "MapSite.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\MapSite.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\MapSite.cs",
@@ -315,67 +381,73 @@
               "RelativeToolTip": "MazeLibrary\\MapSite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:16:24.663Z"
+              "WhenOpened": "2025-10-22T05:16:24.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Rooms\\Room.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\Rooms\\Room.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Rooms\\Room.cs",
               "RelativeToolTip": "MazeLibrary\\Rooms\\Room.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:15:05.314Z"
+              "WhenOpened": "2025-10-22T05:15:05.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "EnchantedRoom.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Rooms\\EnchantedRoom.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\Rooms\\EnchantedRoom.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Rooms\\EnchantedRoom.cs",
               "RelativeToolTip": "MazeLibrary\\Rooms\\EnchantedRoom.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:13:45.495Z"
+              "WhenOpened": "2025-10-22T05:13:45.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "EnchantedDoor.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Doors\\EnchantedDoor.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\Doors\\EnchantedDoor.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Doors\\EnchantedDoor.cs",
               "RelativeToolTip": "MazeLibrary\\Doors\\EnchantedDoor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAByAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:13:05.242Z"
+              "WhenOpened": "2025-10-22T05:13:05.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Door.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Doors\\Door.cs",
               "RelativeDocumentMoniker": "MazeLibrary\\Doors\\Door.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\MazeLibrary\\Doors\\Door.cs",
               "RelativeToolTip": "MazeLibrary\\Doors\\Door.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:11:12.33Z"
+              "WhenOpened": "2025-10-22T05:11:12.33Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "MazeGameFactory.cs",
               "DocumentMoniker": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Abstractfactory\\MazeGameFactory.cs",
               "RelativeDocumentMoniker": "Abstractfactory\\MazeGameFactory.cs",
               "ToolTip": "C:\\Users\\maksp\\source\\repos\\OOA-P\\Abstractfactory\\MazeGameFactory.cs",
               "RelativeToolTip": "Abstractfactory\\MazeGameFactory.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:05:05.915Z"
+              "WhenOpened": "2025-10-22T05:05:05.915Z",
+              "EditorCaption": ""
             }
           ]
         }
