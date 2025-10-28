@@ -4,8 +4,13 @@
     {
         private MapSite[] _sides = new MapSite[4];
 
-        public int Number { get; private init; }
+        public int Number { get; private set; }
         public Room(int number)
+        {
+            Number = number;
+        }
+
+        public void Initialize(int number)
         {
             Number = number;
         }

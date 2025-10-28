@@ -11,26 +11,47 @@ namespace MazeFactoryMethod
 {
     public class MazeGame : Maze
     {
-        public Maze CreateMaze() { return new Maze(); }
 
-        public virtual Maze MakeMaze()
+        protected virtual Maze MakeMaze()
         {
             return new Maze();
         }
 
-        public virtual Room MakeRoom(int n)
+        protected virtual Room MakeRoom(int number)
         {
-            return new Room(n);
+            return new Room(number);
         }
 
-        public virtual Wall MakeWall()
+        protected virtual Wall MakeWall()
         {
             return new Wall();
         }
 
-        public virtual Door MakeDoor(Room roomFrom, Room roomTo)
+        protected virtual Door MakeDoor(Room roomFrom, Room roomTo)
         {
             return new Door(roomFrom, roomTo);
+        }
+        public Maze CreateMaze()
+        {
+            Maze maze = MakeMaze();
+            Room room1 = MakeRoom(1);
+            Room room2 = MakeRoom(2);
+            Door door = MakeDoor(room1, room2);
+
+            maze.AddRoom(room1);
+            maze.AddRoom(room2);
+
+            room1.SetSide(Direction.North, MakeWall());
+            room1.SetSide(Direction.East, door);
+            room1.SetSide(Direction.South, MakeWall());
+            room1.SetSide(Direction.West, MakeWall());
+
+            room2.SetSide(Direction.North, MakeWall());
+            room2.SetSide(Direction.East, MakeWall());
+            room2.SetSide(Direction.South, MakeWall());
+            room2.SetSide(Direction.West, door);
+
+            return maze;
         }
     }
 }

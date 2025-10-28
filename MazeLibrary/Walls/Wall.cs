@@ -8,5 +8,9 @@
         {
             Console.WriteLine("Вы уперлись встену");
         }
+        public virtual Wall Clone()
+        {
+            return new Wall();
+        }
     }
 }

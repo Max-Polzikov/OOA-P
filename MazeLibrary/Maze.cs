@@ -8,9 +8,18 @@ namespace MazeLibrary
 
         private List<Room> _rooms = new List<Room>();
 
+        public Maze(Maze maze)
+        {
+            _rooms = maze._rooms;
+        }
         public void AddRoom(Room room)
         {
             _rooms.Add(room);
+        }
+
+        public Maze Clone()
+        {
+            return new Maze(this);
         }
 
         public Room RoomNumber(int number)
