@@ -10,9 +10,14 @@ namespace MazeLibrary.Walls
     {
         public BombedWall() { }
 
-        public override void Enter()
+        public void Enter()
         {
             Console.WriteLine("Вы уперлись в стену с бомбой");
         }
+
+        public virtual BombedWall Clone() 
+        {
+            return new BombedWall();
+        }   
     }
 }

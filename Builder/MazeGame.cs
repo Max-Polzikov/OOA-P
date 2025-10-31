@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Builder
 {
-    public class MazeGame : Maze
+    public class MazeGame
     {
         public void CreateMaze(IMazeBuilder builder)
         {

@@ -25,17 +25,11 @@ namespace Prototype
             _prototypeWall = wall;
         }
 
-        public void Clone() { }
-
         public Maze MakeMaze()
         {
             return _prototypeMaze.Clone();
         }
 
-        public Room MakeRoom()
-        {
-            return _prototypeRoom;
-        }
         public Room MakeRoom(int number)
         {
             _prototypeRoom.Initialize(number);
@@ -44,12 +38,12 @@ namespace Prototype
 
         public Wall MakeWall()
         {
-            return _prototypeWall.Clone();
+            return (Wall)_prototypeWall.Clone();
         }
 
         public Door MakeDoor(Room room1, Room room2)
         {
-            Door door = _prototypeDoor.Clone();
+            Door door = (Door)_prototypeDoor.Clone();
             door.Initialize(room1, room2);
             return door;
         }

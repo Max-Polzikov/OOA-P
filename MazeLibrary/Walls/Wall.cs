@@ -1,14 +1,16 @@
 ﻿namespace MazeLibrary.Walls
 {
-    public class Wall : MapSite
+    public class Wall : IMapSite
     {
         public Wall() { }
 
-        public override void Enter()
+
+        public  void Enter()
         {
             Console.WriteLine("Вы уперлись встену");
         }
-        public virtual Wall Clone()
+
+        public virtual IMapSite Clone()
         {
             return new Wall();
         }

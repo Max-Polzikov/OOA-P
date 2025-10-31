@@ -1,7 +1,7 @@
 ﻿using MazeLibrary.Rooms;
 namespace MazeLibrary.Doors
 {
-    public class Door : MapSite
+    public class Door : IMapSite
     {
         public Door() { }
         protected Room Room1 { get; set; }
@@ -15,10 +15,10 @@ namespace MazeLibrary.Doors
             IsOpen = true;
         }
 
-        public Door(Door door)
+        public Door(Door other)
         {
-            Room1 = door.Room1;
-            Room2 = door.Room2;
+            Room1 = other.Room1;
+            Room2 = other.Room2;
         }
 
         public Room OtherSideFrom(Room room)
@@ -34,7 +34,7 @@ namespace MazeLibrary.Doors
             throw new Exception("Данной комнаты не существует");
         }
 
-        public virtual Door Clone()
+        public virtual IMapSite Clone()
         {
             return new Door(this);
         }
@@ -45,7 +45,7 @@ namespace MazeLibrary.Doors
             Room2 = room2;
         }
 
-        public override void Enter()
+        public void Enter()
         {
             if (IsOpen)
             {

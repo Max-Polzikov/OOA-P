@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MazeLibrary.Doors;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +21,24 @@ namespace MazeLibrary.Rooms
             Console.WriteLine("Вы активировали заклинание");
         }
 
-        public override void Enter()
+        public void Enter()
         {
             Console.WriteLine("Вы вошли в комнату");
+        }
+
+        public override Room Clone()
+        {
+            return new EnchantedRoom(this);
+        }
+
+        public EnchantedRoom(EnchantedRoom other) : base(other)
+        {
+            _spell = other._spell;
+        }
+
+        public void Initialize(Spell spell)
+        {
+            _spell = spell;
         }
     }
 }

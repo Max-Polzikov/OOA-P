@@ -9,9 +9,27 @@ namespace MazeLibrary.Rooms
     {
         public RoomWithBomb(int number) : base(number) { }
 
-        public override void Enter()
+
+        private bool _bomb;
+
+        public void Enter()
         {
             Console.WriteLine("Вы вошли в комнату с бомбой");
+        }
+
+        public override Room Clone()
+        {
+            return new RoomWithBomb(this);
+        }
+
+        public RoomWithBomb(RoomWithBomb other) : base(other)
+        {
+            _bomb = other._bomb;
+        }
+
+        public void Initialize(bool bomb)
+        {
+            _bomb = bomb;
         }
     }
 }
