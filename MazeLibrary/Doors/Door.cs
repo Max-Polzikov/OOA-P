@@ -17,8 +17,8 @@ namespace MazeLibrary.Doors
 
         public Door(Door other)
         {
-            Room1 = other.Room1;
-            Room2 = other.Room2;
+            Room1 = (Room)other.Room1.Clone();
+            Room2 = (Room)other.Room2.Clone();
         }
 
         public Room OtherSideFrom(Room room)
