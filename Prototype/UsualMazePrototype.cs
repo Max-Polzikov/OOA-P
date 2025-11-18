@@ -32,8 +32,9 @@ namespace Prototype
 
         public Room MakeRoom(int number)
         {
-            _prototypeRoom.Initialize(number);
-            return _prototypeRoom;
+            var r =  (Room) _prototypeRoom.Clone();
+            r.Initialize(number);
+            return r;
         }
 
         public Wall MakeWall()

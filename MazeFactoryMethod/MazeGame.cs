@@ -9,9 +9,8 @@ using MazeLibrary.Rooms;
 using MazeLibrary.Walls;
 namespace MazeFactoryMethod
 {
-    public class MazeGame : Maze
+    public class MazeGame
     {
-
         protected virtual Maze MakeMaze()
         {
             return new Maze();
