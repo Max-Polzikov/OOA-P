@@ -2,7 +2,7 @@
 
 namespace Adapter
 {
-    public class Duck : IBirds
+    public class Duck : IBird
     {
         public void Type()
         {

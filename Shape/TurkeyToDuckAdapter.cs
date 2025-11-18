@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Adapter
 {
-    internal class TurkeyToDuckAdapter :IBirds
+    internal class TurkeyToDuckAdapter :IBird
     {
         private Turkey _turkey;
 

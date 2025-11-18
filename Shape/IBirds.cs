@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Adapter
 {
-    public interface IBirds
+    public interface IBird
     {
         public void Type();
 
