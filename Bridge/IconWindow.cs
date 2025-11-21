@@ -12,16 +12,14 @@ namespace Bridge
 
         public IconWindow(IView contents, string bitmapName) : base(contents)
         {
-            _bitmapName = bitmapName;
+            _bitmapName = bitmapName ?? throw new ArgumentNullException(nameof(bitmapName));
         }
 
         public override void DrawContents() 
         {
-            var imp = GetImp();
-            if (imp != null)
-            {
-                imp.DeviceBitmap(_bitmapName, 0.0, 0.0);
-            }
+            var imp = GetImp() ?? throw new InvalidOperationException("No window implementation");
+
+            imp.DeviceBitmap(_bitmapName, 0, 0);
 
         }
     }

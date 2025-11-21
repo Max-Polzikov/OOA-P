@@ -10,10 +10,10 @@ namespace Bridge
     {
         private IntPtr _hps;
 
-        public void ImpTop() { }
-        public void ImpBottom() { }
-        public void ImpSetExtent(Point point) { }
-        public void ImpSetOrigin(Point point) { }
+        public void ImpTop() => throw new NotImplementedException();
+        public void ImpBottom() => throw new NotImplementedException();
+        public void ImpSetExtent(Point point) => throw new NotImplementedException();
+        public void ImpSetOrigin(Point point) => throw new NotImplementedException();
 
         public void DeviceRect(double x0, double y0, double x1, double y1)
         {
@@ -23,8 +23,8 @@ namespace Bridge
             double top = Math.Max(y0, y1);
         }
 
-        public void DeviceText(string text, double x, double y) { }
+        public void DeviceText(string text, double x, double y) => throw new NotImplementedException();
 
-        public void DeviceBitmap(string bitmapName, double x, double y) { }
+        public void DeviceBitmap(string bitmapName, double x, double y) => throw new NotImplementedException();
     }
 }

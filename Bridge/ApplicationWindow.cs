@@ -8,10 +8,11 @@ namespace Bridge
 {
     internal class ApplicationWindow : Window
     {
-        public IView _view { get; set; }
+        private readonly IView _view;
         public ApplicationWindow(IView contents) : base(contents)
         {
-            _view =contents;
+            _view = contents ?? throw new ArgumentNullException(nameof(contents));
+
         }
 
         public override void DrawContents()

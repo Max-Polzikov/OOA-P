@@ -11,11 +11,11 @@ namespace Bridge
     public class Window : IWindow
     {
         private readonly IView _contents;
-        private IWindowImp _imp;
+        private readonly IWindowImp _imp;
 
         public Window(IView contents)
         {
-            _contents = contents;
+            _contents = contents ?? throw new ArgumentNullException(nameof(contents));
         }
 
         public virtual void DrawContents() { }
