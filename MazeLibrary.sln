@@ -23,21 +23,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MazePrototype", "MazeProtot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prototype.csproj", "{D534654C-F49C-44BF-A25D-8A3BE97FEE17}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MazeSingltone", "MazeSingltone", "{D605E1C8-4D6D-4FA2-A862-5F2D557BB8F5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MazeSingletone", "MazeSingletone", "{D605E1C8-4D6D-4FA2-A862-5F2D557BB8F5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singlton", "MazeSingltoneFactory\Singlton.csproj", "{C65EFF51-8380-419D-9949-67E11593B64C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Adapter", "Adapter", "{8D42E1C0-750E-451A-858F-5D89EF4A8AA1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Shape\Adapter.csproj", "{DF5F11A6-80BC-48DB-B1A8-58C87C73D71C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{DF5F11A6-80BC-48DB-B1A8-58C87C73D71C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "MazeBridge\Bridge.csproj", "{E7E387B4-7908-4324-9DA6-7CCF99CADC39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csproj", "{E7E387B4-7908-4324-9DA6-7CCF99CADC39}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bridge", "Bridge", "{3E5EA763-4ABD-4B2E-85AF-4B7C42EAB326}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Composite", "Composite", "{9C104030-5469-45D5-B043-FDFEC2F95770}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{DA9034B6-9A34-4268-B1D6-4B602635C0BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "Composite\Composite.csproj", "{DA9034B6-9A34-4268-B1D6-4B602635C0BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -42,8 +42,5 @@ namespace MazeSingltoneFactory
         {
             return new Door(room1, room2);
         }
-
-
-
     }
 }
