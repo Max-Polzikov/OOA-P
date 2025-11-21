@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Adapter
 {
-    public interface IBird
+    public interface IDuck
     {
         public void Type();
 
