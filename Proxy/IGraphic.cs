@@ -1,14 +1,16 @@
 ﻿using System;
-
-public interface IGraphics
+namespace Proxy
 {
-    void Draw(Point at);
+    public interface IGraphics
+    {
+        void Draw(Point at);
 
-    void HandleMouse(Event evt);
+        void HandleMouse(Event evt);
 
-    Point GetExtent();
+        Point GetExtent();
 
-    void Load(StreamReader from);
+        void Load(StreamReader from);
 
-    void Save(StreamWriter to);
+        void Save(StreamWriter to);
+    }
 }

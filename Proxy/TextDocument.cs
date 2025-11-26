@@ -1,11 +1,13 @@
 ﻿using System;
-
-public class TextDocument
+namespace Proxy
 {
-    private readonly List<IGraphic> _graphics = new();
-
-    public void Insert(IGraphic graphic)
+    public class TextDocument
     {
-        _graphics.Add(graphic);
+        private readonly List<IGraphic> _graphics = new();
+
+        public void Insert(IGraphic graphic)
+        {
+            _graphics.Add(graphic);
+        }
     }
 }

@@ -1,44 +1,46 @@
 ﻿using System;
-
-public class Image : IGraphic
+namespace Proxy
 {
-    private string _fileName;
-    private Point _extent;
-
-    public Image(string file)
+    public class Image : IGraphic
     {
-        _fileName = file;
-        LoadFromFile();
-    }
+        private string _fileName;
+        private Point _extent;
 
-    private void LoadFromFile()
-    {
-        _extent = new Point(100, 100);
-        Console.WriteLine($"Image Loaded {_fileName}");
-    }
+        public Image(string file)
+        {
+            _fileName = file;
+            LoadFromFile();
+        }
 
-    public void Draw(Point at)
-    {
-        Console.WriteLine($"Image Draw at {at}");
-    }
+        private void LoadFromFile()
+        {
+            _extent = new Point(100, 100);
+            Console.WriteLine($"Image Loaded {_fileName}");
+        }
 
-    public void HandleMouse(Event evt)
-    {
-        Console.WriteLine("Image HandleMouse — resizing image interactively");
-    }
+        public void Draw(Point at)
+        {
+            Console.WriteLine($"Image Draw at {at}");
+        }
 
-    public Point GetExtent()
-    {
-        return _extent;
-    }
+        public void HandleMouse(Event evt)
+        {
+            Console.WriteLine("Image HandleMouse — resizing image interactively");
+        }
 
-    public void Load(StreamReader from)
-    {
-        _fileName = from.ReadLine();
-    }
+        public Point GetExtent()
+        {
+            return _extent;
+        }
 
-    public void Save(StreamWriter to)
-    {
-        to.WriteLine(_fileName);
+        public void Load(StreamReader from)
+        {
+            _fileName = from.ReadLine();
+        }
+
+        public void Save(StreamWriter to)
+        {
+            to.WriteLine(_fileName);
+        }
     }
 }

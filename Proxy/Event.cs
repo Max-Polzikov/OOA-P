@@ -1,6 +1,8 @@
 ﻿using System;
-
-public class Event
+namespace Proxy
 {
-    public string Type { get; set; }
+    public class Event
+    {
+        public string Type { get; set; }
+    }
 }
