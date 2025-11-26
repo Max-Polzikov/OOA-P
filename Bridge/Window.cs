@@ -11,14 +11,25 @@ namespace Bridge
     public class Window : IWindow
     {
         private readonly IView _contents;
-        private readonly IWindowImp _imp;
+        protected IWindowImp _imp;
+
+        public Window(IView contents, IWindowImp imp)
+        {
+            _contents = contents ?? throw new ArgumentNullException(nameof(contents));
+            _imp = imp ?? throw new ArgumentNullException(nameof(imp));
+        }
 
         public Window(IView contents)
         {
-            _contents = contents ?? throw new ArgumentNullException(nameof(contents));
+            _contents = contents;
         }
 
-        public virtual void DrawContents() { }
+        public virtual void DrawContents() 
+        {
+            var imp = GetImp();
+            if (imp != null)
+                imp.DeviceRect(0, 0, 100, 100);
+        }
 
         public virtual void Open() { }
         public virtual void Close() { }
@@ -77,22 +88,21 @@ namespace Bridge
 
         void IWindow.SetExtent(System.Drawing.Point extent)
         {
-            throw new NotImplementedException();
+            SetExtent(new Point(extent.X, extent.Y));
         }
-
         void IWindow.DrawLine(System.Drawing.Point p1, System.Drawing.Point p2)
         {
-            throw new NotImplementedException();
+            SetExtent(new Point(p1.X, p2.Y));
         }
 
         void IWindow.DrawRect(System.Drawing.Point p1, System.Drawing.Point p2)
         {
-            throw new NotImplementedException();
+            SetExtent(new Point(p1.X, p2.Y));
         }
 
         void IWindow.DrawText(string text, System.Drawing.Point p)
         {
-            throw new NotImplementedException();
+            SetExtent(new Point(p.X, p.Y));
         }
     }
 }

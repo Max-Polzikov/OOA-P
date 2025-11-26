@@ -12,7 +12,6 @@ namespace Bridge
         public ApplicationWindow(IView contents) : base(contents)
         {
             _view = contents ?? throw new ArgumentNullException(nameof(contents));
-
         }
 
         public override void DrawContents()
