@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Proxy
 {
-    public interface IGraphics
+    public interface IGraphic
     {
         void Draw(Point at);
 
