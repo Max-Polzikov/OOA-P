@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.11.35303.130
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11218.70 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MazeLibrary", "MazeLibrary\MazeLibrary.csproj", "{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}"
 EndProject
@@ -46,6 +46,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Facade", "Facade", "{AAECFD21-121E-41B6-B34B-96A1278DFF16}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{CA684C6D-E556-4BE7-A3F1-5B28300B054A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proxy", "Proxy", "{9CBCC26C-8964-4862-BF25-FDC131C918C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{E27C7E45-D02A-46D1-A7F5-FA36E5F158FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,6 +105,10 @@ Global
 		{CA684C6D-E556-4BE7-A3F1-5B28300B054A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA684C6D-E556-4BE7-A3F1-5B28300B054A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA684C6D-E556-4BE7-A3F1-5B28300B054A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27C7E45-D02A-46D1-A7F5-FA36E5F158FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27C7E45-D02A-46D1-A7F5-FA36E5F158FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27C7E45-D02A-46D1-A7F5-FA36E5F158FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27C7E45-D02A-46D1-A7F5-FA36E5F158FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -117,6 +125,7 @@ Global
 		{DA9034B6-9A34-4268-B1D6-4B602635C0BA} = {9C104030-5469-45D5-B043-FDFEC2F95770}
 		{6CF39834-106C-4EE7-A228-06F56E910525} = {F659BEFE-74AB-4377-8E3F-1F0DE2BF349A}
 		{CA684C6D-E556-4BE7-A3F1-5B28300B054A} = {AAECFD21-121E-41B6-B34B-96A1278DFF16}
+		{E27C7E45-D02A-46D1-A7F5-FA36E5F158FB} = {9CBCC26C-8964-4862-BF25-FDC131C918C4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6D0562F9-5F0A-4D2C-901A-A0FD8433E1BB}
