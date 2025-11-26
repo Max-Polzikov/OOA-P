@@ -1,6 +1,6 @@
 ﻿using System;
 
-public interface IGraphic
+public interface IGraphics
 {
     void Draw(Point at);
 
