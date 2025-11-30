@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.3.11218.70 d18.3
+VisualStudioVersion = 18.3.11218.70
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MazeLibrary", "MazeLibrary\MazeLibrary.csproj", "{87B9FEBA-8B7D-4A24-9F33-7246384ECEA8}"
 EndProject
@@ -11,19 +11,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstractfactory", "Abstract
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program", "Program\Program.csproj", "{6A65DBFC-B31D-481E-8427-F6FC0718F6BD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MazeBuilder", "MazeBuilder", "{90F123A4-1D99-48FD-B848-4B325F3D8071}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Maze Builder", "Maze Builder", "{90F123A4-1D99-48FD-B848-4B325F3D8071}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{F421683B-E753-4E4F-8C49-60164ED146BE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MazeFactoryMethod", "MazeFactoryMethod", "{8346B212-C17A-49A1-9353-76B37D972269}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Maze Factory Method", "Maze Factory Method", "{8346B212-C17A-49A1-9353-76B37D972269}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MazeFactoryMethod", "MazeFactoryMethod\MazeFactoryMethod.csproj", "{163906EF-ADEE-463F-8A4A-F080C35EE780}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MazePrototype", "MazePrototype", "{F2343FA8-D275-4897-BBA4-669CDC449D1E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Maze Prototype", "Maze Prototype", "{F2343FA8-D275-4897-BBA4-669CDC449D1E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prototype.csproj", "{D534654C-F49C-44BF-A25D-8A3BE97FEE17}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MazeSingletone", "MazeSingletone", "{D605E1C8-4D6D-4FA2-A862-5F2D557BB8F5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Maze Singletone", "Maze Singletone", "{D605E1C8-4D6D-4FA2-A862-5F2D557BB8F5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singlton", "MazeSingltoneFactory\Singlton.csproj", "{C65EFF51-8380-419D-9949-67E11593B64C}"
 EndProject
@@ -50,6 +50,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proxy", "Proxy", "{9CBCC26C-8964-4862-BF25-FDC131C918C4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{E27C7E45-D02A-46D1-A7F5-FA36E5F158FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chain of Responsibility", "Chain of Responsibility", "{47FD9F02-1A77-47BB-9099-5D593458344B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "Chain of Responsibility\ChainOfResponsibility.csproj", "{01C09AA9-A56A-4B48-938F-19F88A5BDC12}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Command", "Command", "{21122B8F-387A-4FB9-8BE5-F4175E4FDC63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{B9F2F93F-D471-4C47-8265-65095A29DB58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -109,6 +117,14 @@ Global
 		{E27C7E45-D02A-46D1-A7F5-FA36E5F158FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E27C7E45-D02A-46D1-A7F5-FA36E5F158FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E27C7E45-D02A-46D1-A7F5-FA36E5F158FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C09AA9-A56A-4B48-938F-19F88A5BDC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C09AA9-A56A-4B48-938F-19F88A5BDC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C09AA9-A56A-4B48-938F-19F88A5BDC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C09AA9-A56A-4B48-938F-19F88A5BDC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F2F93F-D471-4C47-8265-65095A29DB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F2F93F-D471-4C47-8265-65095A29DB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F2F93F-D471-4C47-8265-65095A29DB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F2F93F-D471-4C47-8265-65095A29DB58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -126,6 +142,8 @@ Global
 		{6CF39834-106C-4EE7-A228-06F56E910525} = {F659BEFE-74AB-4377-8E3F-1F0DE2BF349A}
 		{CA684C6D-E556-4BE7-A3F1-5B28300B054A} = {AAECFD21-121E-41B6-B34B-96A1278DFF16}
 		{E27C7E45-D02A-46D1-A7F5-FA36E5F158FB} = {9CBCC26C-8964-4862-BF25-FDC131C918C4}
+		{01C09AA9-A56A-4B48-938F-19F88A5BDC12} = {47FD9F02-1A77-47BB-9099-5D593458344B}
+		{B9F2F93F-D471-4C47-8265-65095A29DB58} = {21122B8F-387A-4FB9-8BE5-F4175E4FDC63}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6D0562F9-5F0A-4D2C-901A-A0FD8433E1BB}

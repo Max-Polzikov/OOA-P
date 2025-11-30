@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Composite
+namespace INodes
 {
-    public class Bus : CompositeEquipment
+    public interface INode
     {
-        public Bus(string name) : base(name) { }
+        double Value { get; set; }
+
     }
 }

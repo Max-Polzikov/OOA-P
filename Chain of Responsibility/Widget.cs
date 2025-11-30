@@ -1,0 +1,17 @@
+﻿using ChainOfResponsibility;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Chain_of_Responsibility
+{
+    public class Widget : HelpHandler
+    {
+        protected Widget _parent;
+
+        protected Widget(Widget parent = null, Topic topic = Topic.NO_HELP_TOPIC) : base(parent, topic)
+        {
+            _parent = parent;
+        }
+    }
+}
