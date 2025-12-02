@@ -21,6 +21,7 @@ namespace BinaryTrees
         private INode _root = null;
         public int Count { get; private set; } = 0;
         private bool _direction = false;
+        public INode Root => _root;
 
         public BinaryTree() { }
 
@@ -282,7 +283,7 @@ namespace BinaryTrees
 
         public override IEnumerator GetEnumerator()
         {
-            return new BinaryTreeIterator(this, _direction);
+            return new BinaryTreePreOrderIterator(this);
         }
     }
 }

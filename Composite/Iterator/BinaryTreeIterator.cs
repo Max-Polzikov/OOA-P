@@ -1,56 +1,55 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using BinaryTrees;
+﻿using System.Collections.Generic;
 using Iterators;
+using BinaryTrees;
+using INodes;
+using Nodes;
 
 namespace BinaryTreeIterators
 {
-    public class BinaryTreeIterator : Iterator
+    public class BinaryTreePreOrderIterator : Iterator
     {
-        private BinaryTree _tree;
-        private int _position = -1;
-        private bool _reverse = false;
+        private readonly BinaryTree _tree;
+        private Stack<INode> _stack;
+        private INode _current;
 
-        public BinaryTreeIterator(BinaryTree tree, bool reverse = false)
+        public BinaryTreePreOrderIterator(BinaryTree tree)
         {
             _tree = tree;
-            _reverse = reverse;
-
-            if (reverse)
-            {
-                _position = tree.Count;
-            }
+            Reset();
         }
 
         public override object Current()
         {
-            return _tree.GetAllValues()[_position];
+            return _current?.Value;
         }
 
-        public override int Key()
-        {
-            return _position;
-        }
+        public override int Key() => 0;
 
         public override bool MoveNext()
         {
-            int updatedPosition = _position + (_reverse ? -1 : 1);
-
-            if (updatedPosition >= 0 && updatedPosition < _tree.Count)
-            {
-                _position = updatedPosition;
-                return true;
-            }
-            else
-            {
+            if (_stack.Count == 0)
                 return false;
+
+            _current = _stack.Pop();
+
+            // ПРЯМОЙ ОБХОД: Node → Left → Right
+            if (_current is Node n)
+            {
+                if (n.Right != null) _stack.Push(n.Right);
+                if (n.Left != null) _stack.Push(n.Left);
             }
+
+            return true;
         }
 
         public override void Reset()
         {
-            _position = _reverse ? _tree.Count - 1 : 0;
+            _stack = new Stack<INode>();
+
+            if (!_tree.IsEmpty())
+                _stack.Push(_tree.Root);
+
+            _current = null;
         }
     }
 }
