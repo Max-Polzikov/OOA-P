@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Topics
+{ 
     public enum Topic
     {
         NO_HELP_TOPIC = -1,

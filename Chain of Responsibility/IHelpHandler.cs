@@ -1,5 +1,5 @@
 ﻿using Topics;
-namespace ChainOfResponsibilit7y
+namespace Chain_Of_Responsibility
 {
     public interface IHelpHandler
     {
