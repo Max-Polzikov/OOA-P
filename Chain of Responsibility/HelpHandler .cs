@@ -11,26 +11,20 @@ namespace Chain_of_Responsibility
         protected IHelpHandler _successor;
         protected Topic _topic;
 
-        public HelpHandler(IHelpHandler successor = null, Topic topic = Topic.NO_HELP_TOPIC)
+        public HelpHandler(IHelpHandler successor, Topic topic)
         {
             _successor = successor;
             _topic = topic;
         }
 
-        public virtual bool HasHelp()
-        {
-            return _topic != Topic.NO_HELP_TOPIC;
-        }
-
-        public virtual void SetHandler(IHelpHandler successor, Topic topic)
-        {
-            _successor = successor;
-            _topic = topic;
-        }
 
         public virtual void HandleHelp()
         {
-            if (_successor != null)
+            if (_topic != Topic.NoHelp)
+            {
+                Console.WriteLine($"Help:{_topic}");
+            }
+            else if (_successor != null)
             {
                 _successor.HandleHelp();
             }

@@ -8,14 +8,14 @@ namespace Chain_of_Responsibility
 {
     public class Button : HelpHandler
     {
-        public Button(Widget parent, Topic topic = Topic.NO_HELP_TOPIC)
+        public Button(Widget parent, Topic topic = Topic.NoHelp)
         : base(parent, topic) { }
 
         public override void HandleHelp()
         {
-            if (HasHelp())
+            if (_topic != Topic.NoHelp)
             {
-                Console.WriteLine($"Button help: {_topic}");
+                Console.WriteLine($"Button Help:{_topic}");
             }
             else
             {

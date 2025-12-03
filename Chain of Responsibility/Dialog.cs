@@ -8,16 +8,13 @@ namespace Chain_of_Responsibility
 {
     public class Dialog : Widget
     {
-        public Dialog(IHelpHandler successor, Topic topic = Topic.NO_HELP_TOPIC) : base(null, topic)
-        {
-            SetHandler(successor, topic);
-        }
+        public Dialog(IHelpHandler successor, Topic topic = Topic.NoHelp) : base(null, topic) { }
 
         public override void HandleHelp()
         {
-            if (HasHelp())
+            if (_topic != Topic.NoHelp)
             {
-                Console.WriteLine($"Dialog help: {_topic}");
+                Console.WriteLine($"Dialog Help:{_topic}");
             }
             else
             {

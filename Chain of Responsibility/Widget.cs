@@ -10,7 +10,7 @@ namespace Chain_of_Responsibility
     {
         protected Widget _parent;
 
-        protected Widget(Widget parent = null, Topic topic = Topic.NO_HELP_TOPIC) : base(parent, topic)
+        protected Widget(Widget parent = null, Topic topic = Topic.NoHelp) : base(parent, topic)
         {
             _parent = parent;
         }
