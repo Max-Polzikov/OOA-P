@@ -20,5 +20,14 @@ namespace Memento
             var memento = _history.Pop();
             originator.Restore(memento);
         }
+        
+        public void ShowHistory()
+        {
+            Console.WriteLine("История:");
+            foreach (var index in _history)
+            { 
+                Console.WriteLine($" '{index._state}'"); 
+            }
+        }
     }
 }
