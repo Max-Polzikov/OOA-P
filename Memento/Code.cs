@@ -11,7 +11,7 @@ namespace Memento
         public void SetState(string state)
         {
             _state = state;
-            Console.WriteLine("State set to: " + state);
+            Console.WriteLine("State set to: " + _state);
         }
 
         public Memento Save()
