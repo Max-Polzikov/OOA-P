@@ -8,12 +8,12 @@ namespace Memento
     {
         private readonly Stack<Memento> _history = new Stack<Memento>();
 
-        public void Backup(Code originator)
+        public void Backup(Originator originator)
         {
             _history.Push(originator.Save());
         }
 
-        public void Undo(Code originator)
+        public void Undo(Originator originator)
         {
             if (_history.Count == 0) return;
 

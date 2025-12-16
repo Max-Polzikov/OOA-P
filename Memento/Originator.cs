@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Memento
 {
-    public class Code
+    public class Originator
     {
         public string _state { get; private set; }
 
