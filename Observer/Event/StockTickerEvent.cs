@@ -6,11 +6,11 @@ namespace Observer.Event
 {
     public class StockTickerEvent
     {
-        public event Action<string, double> PriceChanged;
+        public event Action<string, double> _priceChanged;
 
         public void SetPrice(string stock, double price)
         {
-            PriceChanged?.Invoke(stock, price); 
+            _priceChanged?.Invoke(stock, price); 
         }
     }
 }

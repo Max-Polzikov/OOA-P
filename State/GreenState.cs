@@ -8,7 +8,7 @@ namespace State
     {
         public void Handle(TrafficLight context)
         {
-            context.State = new YellowState();
+            context._state = new YellowState();
         }
 
         public string GetColor()
