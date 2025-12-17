@@ -8,7 +8,7 @@ namespace Observer.Event
     {
         public void Subscribe(StockTickerEvent ticker)
         {
-            ticker._priceChanged += Update;
+            ticker.PriceChanged += Update;
         }
 
         private void Update(string stock, double price)

@@ -6,21 +6,21 @@ namespace State
 {
     public class TrafficLight
     {
-        public ITrafficLightState State { get; set; }
+        public ITrafficLightState _state { get; set; }
 
         public TrafficLight()
         {
-            State = new RedState();
+            _state = new RedState();
         }
 
         public void Change()
         {
-            State.Handle(this);
+            _state.Handle(this);
         }
 
         public void ShowColor()
         {
-            Console.WriteLine("Цвет сфетофора: " + State.GetColor());
+            Console.WriteLine("Цвет сфетофора: " + _state.GetColor());
         }
     }
 }
