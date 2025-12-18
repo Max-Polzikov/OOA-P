@@ -6,9 +6,9 @@ namespace State
 {
     public class YellowState : ITrafficLightState
     {
-        public void Handle(TrafficLight context)
+        public ITrafficLightState Handle(TrafficLight context)
         {
-            context._state = new RedState();
+            return new RedState();
         }
 
         public string GetColor()

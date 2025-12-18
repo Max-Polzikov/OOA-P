@@ -2,7 +2,7 @@
 {
     public interface ITrafficLightState
     {
-        void Handle(TrafficLight context);
+        ITrafficLightState Handle(TrafficLight context);
         string GetColor();
     }
 }
